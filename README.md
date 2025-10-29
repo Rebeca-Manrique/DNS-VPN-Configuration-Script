@@ -41,8 +41,7 @@ if ($adapter -and $adapter.Status -eq "Up") {
 Pause
 
 ```
-###Instrucciones de Uso (Para Reclutadores y Revisores)
-
+### Instrucciones de Uso
 
 1. La carpeta principal se guarda en archivos de programa
 2. Se crea un acceso directo de el archivo .bat que es el ejecutable.
