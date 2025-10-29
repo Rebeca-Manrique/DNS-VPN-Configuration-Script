@@ -1,0 +1,2 @@
+@echo off
+PowerShell -NoProfile -ExecutionPolicy Bypass -Command "Start-Process PowerShell -ArgumentList '-ExecutionPolicy Bypass -File \"C:\Program Files\DNS VPN configuracion OpenVPN Data Channel Offload\configurar_dns_vpn.ps1\"' -Verb RunAs"
